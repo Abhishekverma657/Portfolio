@@ -34,7 +34,7 @@ const Hero = () => {
   <div className="rounded-full bg-transparent border border-orange-500 p-2 md:p-4">
     {/* Image */}
     <img
-      src="public/profile_pic.png"
+      src="/profile_pic.png"
       alt="Abhishek Verma"
       className="rounded-full h-56 w-56 md:h-80 md:w-80 object-cover"
     />

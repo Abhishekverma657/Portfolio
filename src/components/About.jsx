@@ -17,7 +17,7 @@ const About = () => {
                 {/* Left Side - Image */}
                 <div className="md:w-1/2 flex justify-center">
                     <img
-                        src="public/profile.jpeg"
+                        src="/profile.jpeg"
                         alt="Abhishek Verma"
                         className="rounded-lg h-52 w-52 md:h-80 md:w-72 object-cover border-2  shadow-lg border-orange-500"
                     />
@@ -39,7 +39,7 @@ const About = () => {
     <ImDownload2 className="mr-2 text-gray-800" />
     <span className="font-semibold">
     <a
-              href="public/Abhishek-resume.pdf"
+              href="/Abhishek-resume.pdf"
               download="Abhishek_Varma_CV.pdf"
               className="text-gray-950"
             >

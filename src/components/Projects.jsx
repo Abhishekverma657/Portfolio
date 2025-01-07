@@ -38,21 +38,21 @@ const Projects = () => {
             name: "Imagify -AI Image Generator",
             description:
                 "Imagify is a text-to-image generation platform built using  React.js, Node.js, Express.js and  MongoDB integrated with the  ClipDrop API to convert user prompts into stunning images. The application features Razorpay integration for secure credit purchases, enabling users to access premium functionality. With its seamless design and efficient processing, Imagify transforms creative prompts into visually compelling results in real time ",
-            video: "public/imagify recording.mp4",
+            video: "/imagify recording.mp4",
             Link: 'https://ai-image-generater-aoxo.onrender.com/'
         },
         {
             name: "Job Portal- Role-Based Job Portal for Students and Recruiters",
             description:
                 "Job Portal  is a dynamic job portal tailored for students and recruiters. Students can filter and apply for jobs based on their preferences, while recruiters manage job postings, monitor applications, and update applicant statuses (e.g., selected/rejected) via an admin panel. Built with React.js, Node.js, Express.js, MongoDB and enhanced with  Framer Motion for smooth animations",
-            video: "public/job portal recording.mp4",
+            video: "/job portal recording.mp4",
             Link: "https://jobportal-98ze.onrender.com/"
         },
         {
             name: "BlogX - AI-Powered Blogging Platform for Desktop",
             description:
                 "A full-stack blogging platform built with  React.js, Node.js, Express.js and  MongoDB, featuring secure JWT-based authentication and password encryption. Users can create and manage posts, follow/unfollow others, and mention users in posts. Integrated Gemini AI API  enables automatic post generation with AI assistance. The platform supports real-time interactions, optimized data handling, and a seamless user experience.",
-            video: "public/BlogX recording.mp4",
+            video: "/BlogX recording.mp4",
             Link: "https://blogx-1ltm.onrender.com/"
         },
     ];

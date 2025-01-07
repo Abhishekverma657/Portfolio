@@ -13,7 +13,7 @@ const NavBar = () => {
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <div className="flex items-center ">
             <img
-              src="public/portfolio_logo.png"
+              src="/portfolio_logo.png"
               alt="Logo"
               className="h-16 w-16 object-cover  fill-orange-500"
             />

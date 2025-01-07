@@ -18,7 +18,7 @@ const Hero = () => {
               </button>
             <button className=' border border-gray-500 rounded-lg  px-2 py-1 m-2 text-gray-400 font-sans' >
             <a
-              href="src/assets/Abhishek-resume.pdf"
+              href="public/Abhishek-resume.pdf"
               download="Abhishek_Varma_CV.pdf"
               className="text-gray-400"
             >
@@ -34,7 +34,7 @@ const Hero = () => {
   <div className="rounded-full bg-transparent border border-orange-500 p-2 md:p-4">
     {/* Image */}
     <img
-      src="src/assets/profile_pic.png"
+      src="public/profile_pic.png"
       alt="Abhishek Verma"
       className="rounded-full h-56 w-56 md:h-80 md:w-80 object-cover"
     />

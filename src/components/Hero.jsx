@@ -18,7 +18,7 @@ const Hero = () => {
               </button>
             <button className=' border border-gray-500 rounded-lg  px-2 py-1 m-2 text-gray-400 font-sans' >
             <a
-              href="public/Abhishek-resume.pdf"
+              href="/Abhishek-resume.pdf"
               download="Abhishek_Varma_CV.pdf"
               className="text-gray-400"
             >
